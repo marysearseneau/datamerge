@@ -3,7 +3,7 @@
 The Datamerger application is responsible for parsing, merging, sorting and reporting on Csv, Json, and Xml data formatted files. The records within each file must have 8 fields representing max hole size, packets serviced and requested, client Guid and address, request timestamp, service Guid and retries request count.
 
 # Design 
-The Generated JavaDocs of this application are [here](https://marysearseneau.github.io/datamerge/docs/).
+The Generated JavaDocs of this application are [here](https://marysearseneau.github.io/datamerge/).
 
 ![UML Diagram of Datamerge application](/assets/datamerge-uml.png "UML Diagram of Datamerge application")
 
